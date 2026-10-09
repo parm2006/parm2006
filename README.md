@@ -20,7 +20,7 @@
 
 ## What I've been building
 
-| Project | Why it's interesting |
+| Project | What it is |
 |---|---|
 | 🛠️ [**Conduit**](https://github.com/parm2006/Conduit) | Share a mouse, keyboard, clipboard, and files across Windows PCs. |
 | 🎮 [**Terraria Pixel Art Converter**](https://github.com/parm2006/terraria-pixel-converter) | Turns images into Terraria blocks and walls. [Try it live](https://terraria-pixel-art-converter.vercel.app/). |
