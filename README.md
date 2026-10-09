@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/parm2006/parm2006/main/assets/header.svg" alt="Colorful abstract banner with connected nodes, game-inspired shapes, and a flowing path" width="100%" />
+  <img src="https://raw.githubusercontent.com/parm2006/parm2006/main/assets/pixel-header.svg" alt="Animated pixel-inspired landscape with the words Build, Play, Repeat and a little running character" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Parth Mohnot 👋</h1>
@@ -39,6 +39,14 @@
 - [**Scholarly Search Engine**](https://github.com/parm2006/Scholarly-Search-Engine) — Search academic papers with citation and author analytics.
 
 </details>
+
+## At my workspace
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/parm2006/parm2006/main/assets/workspace-terminal.svg" alt="A playful parth@workspace terminal cycling through ser-style questions about Conduit, Terraria pixel art, and other projects" width="100%" />
+</p>
+
+<p align="center"><sub>A little command-line easter egg, not a literal demo of the SimpleEnglishRag CLI.</sub></p>
 
 ## Tools & technologies
 

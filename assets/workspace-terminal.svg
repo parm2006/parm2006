@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 285" role="img" aria-labelledby="title desc">
+  <title id="title">Parth's workspace</title><desc id="desc">A playful terminal cycles through questions about Conduit, Terraria, and Parth's projects using ser-inspired syntax.</desc>
+  <rect width="1000" height="285" rx="18" fill="#0d1220" stroke="#67749c" stroke-width="2"/>
+  <path d="M18 0h964q18 0 18 18v31H0V18Q0 0 18 0" fill="#1d2538"/>
+  <circle cx="25" cy="25" r="6" fill="#f2767a"/><circle cx="47" cy="25" r="6" fill="#edc273"/><circle cx="69" cy="25" r="6" fill="#6ad6ac"/>
+  <text x="425" y="31" fill="#aab7cf" font-family="Consolas,monospace" font-size="16">parth@workspace</text>
+  <g font-family="Consolas,monospace" font-size="25">
+    <text x="45" y="100" fill="#70e0bb">➜</text><text x="85" y="100" fill="#7c8ba9">~/projects</text>
+    <g fill="#f7f7ff">
+      <text x="265" y="100">ser ask "what is Conduit?"<animate attributeName="opacity" calcMode="discrete" values="1;0;0;0" keyTimes="0;.25;.5;.75" dur="16s" repeatCount="indefinite"/></text>
+      <text x="265" y="100" opacity="0">ser search "Terraria pixel art"<animate attributeName="opacity" calcMode="discrete" values="0;1;0;0" keyTimes="0;.25;.5;.75" dur="16s" repeatCount="indefinite"/></text>
+      <text x="265" y="100" opacity="0">ser ask "what else does Parth build?"<animate attributeName="opacity" calcMode="discrete" values="0;0;1;0" keyTimes="0;.25;.5;.75" dur="16s" repeatCount="indefinite"/></text>
+      <text x="265" y="100" opacity="0">ser stats<animate attributeName="opacity" calcMode="discrete" values="0;0;0;1" keyTimes="0;.25;.5;.75" dur="16s" repeatCount="indefinite"/></text>
+    </g>
+    <g fill="#c6b5ff" font-size="21">
+      <text x="85" y="165">One mouse, keyboard, clipboard, and file flow across Windows PCs.<animate attributeName="opacity" calcMode="discrete" values="1;0;0;0" keyTimes="0;.25;.5;.75" dur="16s" repeatCount="indefinite"/></text>
+      <text x="85" y="165" opacity="0">Turn an image into blocks and walls you can build in-game.<animate attributeName="opacity" calcMode="discrete" values="0;1;0;0" keyTimes="0;.25;.5;.75" dur="16s" repeatCount="indefinite"/></text>
+      <text x="85" y="165" opacity="0">AI experiments, game projects, and tools worth keeping.<animate attributeName="opacity" calcMode="discrete" values="0;0;1;0" keyTimes="0;.25;.5;.75" dur="16s" repeatCount="indefinite"/></text>
+      <text x="85" y="165" opacity="0">Still building. Still playing. Still learning.<animate attributeName="opacity" calcMode="discrete" values="0;0;0;1" keyTimes="0;.25;.5;.75" dur="16s" repeatCount="indefinite"/></text>
+    </g>
+    <text x="45" y="235" fill="#70e0bb">➜</text><rect x="85" y="215" width="13" height="25" fill="#70e0bb"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>
